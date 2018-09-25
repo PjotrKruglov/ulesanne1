@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 <body>
+<div class="container">
     <h1>Registreerimisvorm123</h1>
 <form action="result.php" method="get">
     <div class="form-group">
@@ -32,5 +33,6 @@
 
 </div>
 </div> 
+</div>
 </body>
 </html>
