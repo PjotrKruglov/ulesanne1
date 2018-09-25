@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Registreerimisvorm</h1>
+    <h1>Registreerimisvorm123</h1>
 <form action="result.php" method="get">
     <div class="form-group">
         <label for="usr">Name:</label>
